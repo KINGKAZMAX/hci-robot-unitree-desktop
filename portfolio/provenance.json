@@ -1,0 +1,13 @@
+{
+  "slug": "hci-robot-unitree-desktop",
+  "dir": "unitree-desktop-control",
+  "upstream": "Airuxn/unitree-robot-control-suite",
+  "license": "MIT",
+  "category": "机器人 / 桌面端",
+  "validation": "20 upstream unit tests passed; no hardware validation",
+  "iteration": "按任务重组连接、地图、手部控制；新增来源与验证证据档案",
+  "upstreamCommit": "00b0f4b6920ae71be1300a9f0a7136b8f1f14a98",
+  "checkedAt": "2026-10-14",
+  "forkUrl": "https://github.com/KINGKAZMAX/hci-robot-unitree-desktop",
+  "contribution": "Categorization, provenance archive, portfolio documentation and conceptual HCI iteration. Upstream implementation remains attributed."
+}
